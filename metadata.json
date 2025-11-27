@@ -1,0 +1,5 @@
+{
+  "name": "SentinelAI - Fraude Bancaire",
+  "description": "Plateforme de détection de fraude bancaire en temps réel utilisant Gemini pour simuler des modèles d'analyse comportementale (Isolation Forest, XGBoost).",
+  "requestFramePermissions": []
+}
